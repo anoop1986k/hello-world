@@ -1,0 +1,7 @@
+/** 
+* This application will track your daily BWW system reading and listening habits.
+* At the end of the week or month, you can generate a report to view your progress.
+* Historical data is not available, all available data is reset at 12:00 AM every 1st of the month
+* Code will be developed and owned by Anoop Kumar
+*/
+
